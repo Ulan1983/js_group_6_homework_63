@@ -1,0 +1,17 @@
+.about {
+	margin: 20px;
+	text-align: center;
+	border: 1px solid #000;
+}
+
+.about h4 {
+	font-size: 24px;
+	padding-top: 10px;
+	margin: 5px 0 0;
+}
+
+.about p {
+	text-align: left;
+	margin: 0;
+	padding: 10px;
+}

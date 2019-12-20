@@ -1,0 +1,8 @@
+.contacts {
+	margin: 20px;
+	border: 1px solid #000;
+}
+.contacts p {
+	margin-top: 10px;
+	padding: 5px;
+}
